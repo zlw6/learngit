@@ -5,6 +5,7 @@ Git tracks changes.
 Git tracks changes of files.
 Git
 Git Git
+Git is a free software.
 Creating a new branch is quick and simple.
 <<<<<<< HEAD
 Creating a new branch is quick & simple. 
